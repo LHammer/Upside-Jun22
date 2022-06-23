@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>631110881213-80enh372v3eh54c7td6edpg1eelci29l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.631110881213-80enh372v3eh54c7td6edpg1eelci29l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwZTXQuS-Ti3vp159KyIQzYICpedyCNPc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>631110881213</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lukehammer.Upside</string>
+	<key>PROJECT_ID</key>
+	<string>upside-cc830</string>
+	<key>STORAGE_BUCKET</key>
+	<string>upside-cc830.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:631110881213:ios:693ff9d4423a3b4bda8cd4</string>
+</dict>
+</plist>
